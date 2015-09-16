@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 洞眞太上太霄琅書
-#+DATE: 2015-08-29 02:59:04
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:58:45.600383
+#+TITLE: 洞真太上太霄琅書
+#+PROPERTY: DZID  DZ1352
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—645 十卷 正一部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
