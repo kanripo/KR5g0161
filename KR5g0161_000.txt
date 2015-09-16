@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 洞眞太上太霄琅書
-#+DATE: 2015-08-29 02:59:04
+#+TITLE: 洞真太上太霄琅書
+#+DATE: 2015-08-29 02:59:20
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
 
 
