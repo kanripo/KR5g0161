@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 洞眞太上太霄琅書
-#+DATE: 2015-08-29 02:59:04
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 1
-<md:KR5g0161_HFL_001-001a>¶<pb:KR5g0161_CK-KZ_01p001a>
-重刋道藏輯
